@@ -1,0 +1,19 @@
+{
+  "name": "nyaya",
+  "description": "न्याय Nyaya - A first class api for native javascript.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aldo-dev/nyaya",
+  "repository": "https://github.com/aldo-dev/nyaya.git",
+  "bugs": {
+    "url": "https://github.com/aldo-dev/nyaya/issues"
+  },
+  "author": "Simon Deshaies",
+  "license": "MIT",
+  "contributors": [
+    "Simon Deshaies",
+    "Ysael Pepin",
+    "Guillaume Martin",
+    "Olivier Leduc",
+    "Olivier Melancon"
+  ]
+}
