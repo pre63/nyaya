@@ -3,7 +3,7 @@
   "description": "न्याय Nyaya - A first class api for native javascript.",
   "version": "0.0.0",
   "private": true,
-  "author": "Simon Deshaies (@pre63)",
+  "author": "Aldo Group",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=6"
